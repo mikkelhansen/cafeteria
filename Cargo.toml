@@ -6,5 +6,5 @@ authors = ["Mikkel Hansen <mikkelhansen@outlook.dk>"]
 [dependencies]
 
 [lib]
-name = "coffebuilder"
-path = "src/coffe_builder.rs"
+name = "coffeebuilder"
+path = "src/coffee_builder.rs"
