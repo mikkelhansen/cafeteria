@@ -1,0 +1,10 @@
+[package]
+name = "cafeteria"
+version = "0.1.0"
+authors = ["Mikkel Hansen <mikkelhansen@outlook.dk>"]
+
+[dependencies]
+
+[lib]
+name = "coffebuilder"
+path = "src/coffe_builder.rs"
